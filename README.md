@@ -8,5 +8,6 @@
 系級 : 科技系115級 <br />
 
 ## 課程筆記區 
+9/12 https://wei-ting-hsu.github.io/first-page/
 ## 作業連結區
 ## 專題連結區
