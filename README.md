@@ -10,5 +10,6 @@
 ## 課程筆記區 
 9/12 https://wei-ting-hsu.github.io/first-page/
 ## 作業連結區
-[10/3](https://wei-ting-hsu.github.io/WEB/)
+[HW2](https://wei-ting-hsu.github.io/WEB/)
+[HW3](https://youtu.be/0kbB1qR_Vaw)
 ## 專題連結區
